@@ -23,7 +23,7 @@ Do not use it to write an email from scratch, to find one specific old email, or
    If Google is not connected, tell the student, offer to connect it, and stop.
 2. Read each message (sender, subject and the body) and judge it with the rules below. Judge the content, not just the sender or the subject line.
 3. For any email about a grade being released or posted, look up the actual grade in Canvas with Cubbie's Canvas capability (the course and assignment named in the email) and put the real grade in the text. See "Grade emails" below.
-4. Rank what passes by urgency and keep the top three.
+4. Rank what passes by urgency and keep the top five.
 5. Text the student a short list, then offer to draft replies for the ones that need one.
 6. Never archive, delete, label or mark anything as read.
 
@@ -74,9 +74,9 @@ Put the most urgent first:
 2. A person waiting on a time or an answer (interviews, meetings).
 3. Grades, financial aid and account problems.
 4. Direct questions with no deadline.
-5. Anything unsure. Include it only if there are fewer than three, and mark it "maybe".
+5. Anything unsure. Include it only if there are fewer than five, and mark it "maybe".
 
-If more than three pass, text the top three and say how many more there are ("2 more, want them?").
+If more than five pass, text the top five and say how many more there are ("2 more, want them?").
 
 ## Replies
 
